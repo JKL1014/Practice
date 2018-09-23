@@ -1,0 +1,3 @@
+from johnnys_stuff import awesomeness
+
+print str('Hello World!').awesomeness.font('groovy')
