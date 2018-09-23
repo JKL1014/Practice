@@ -1,3 +1,12 @@
 from johnnys_stuff import awesomeness
 
 print str('Hello World!').awesomeness.font('groovy')
+
+message = raw_input('What would you like to say to Johnny?')
+
+print 'You said: ' + message
+
+print '/n'
+
+print 'Johnny says:  Thanks for sharing!'
+
